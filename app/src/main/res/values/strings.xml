@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Fit Body</string>
+    <string name="age_hint">age</string>
+    <string name="male_hint">male</string>
+    <string name="female_hint">female</string>
+    <string name="height_hint">height(cm)</string>
+    <string name="height_feet_hint">height(feet)</string>
+    <string name="height_inches_hint">height(inches)</string>
+    <string name="weight_hint">weight(kg)</string>
+    <string name="weight_hint_imperial">weight(pounds)</string>
+    <string name="bust_hint">bust(cm)</string>
+    <string name="bust_hint_imperial">bust(in)</string>
+    <string name="waist_hint">waist(cm)</string>
+    <string name="waist_hint_imperial">waist(in)</string>
+    <string name="hip_hint">hip(cm)</string>
+    <string name="hip_hint_imperial">hip(in)</string>
+    <string name="calculate_text">Calculate</string>
+
+    <string-array name="spinner_strings">
+        <item>Basal Metabolic Rate (BMR)</item>
+        <item>Sedentary - little or no exercise</item>
+        <item>Lightly Active - exercise/sports 1-3 times/week</item>
+        <item>Moderatetely Active - exercise/sports 3-5 times/week</item>
+        <item>Very Active - hard exercise/sports 6-7 times/week</item>
+        <item>Extra Active - very hard exercise/sports or physical job</item>
+    </string-array>
+
+    <string-array name="spinner_values">
+        <item>1</item>
+        <item>1.2</item>
+        <item>1.375</item>
+        <item>1.55</item>
+        <item>1.725</item>
+        <item>1.9</item>
+    </string-array>
+
+    <string name="body_type_desc">Find out your body shape (female only). Four most common female body shapes are Apple, Banana, Pear and Hourglass.</string>
+    <string name="weight_desc">The Ideal Weight Calculator computes the ideal body weight as well as a healthy body weight range based on height, gender, and age.</string>
+    <string name="calorie_desc">The Calorie Calculator can be used to estimate the calories you need to maintain your weight constant.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="navigation_drawer_names">
+        <item>Ideal Weight</item>
+        <item>Calorie Calculator</item>
+        <item>Body Type</item>
+        <item>Settings</item>
+    </string-array>
+
+
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <string name="info_first_column">Fit Body\n2020</string>
+    <string name="info_second_column">LINK GROUP</string>
+
+    <string-array name="units">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+    <string-array name="unit_values">
+        <item>met</item>
+        <item>imp</item>
+    </string-array>
+
+</resources>
